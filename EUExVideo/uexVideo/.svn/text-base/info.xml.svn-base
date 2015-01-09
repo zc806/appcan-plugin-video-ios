@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<uexplugins>
-    <plugin uexName="uexVideo" version="3.0.1" build = "1">
-        <build>1:更换动画效果，修复在6.1.2上的显示问题</build>
-        <info>0:视频功能插件</info>
-	</plugin>
-</uexplugins>
